@@ -1,0 +1,3 @@
+#pragma once
+
+inline constexpr char benchmark_data[] = R"csv(@benchmark_data@)csv";
